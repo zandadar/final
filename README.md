@@ -1,1 +1,1 @@
-# final
+запуск через npm i --force
